@@ -4,7 +4,7 @@
 
 ## 1. PROMPT (CÂU LỆNH HỆ THỐNG / ĐIỀU PHỐI)
 
-> **Lưu ý:** Đây là cấu trúc lệnh chuẩn (CREATE framework) để kích hoạt trợ lý sản xuất bài PR theo quy trình Prompt Chaining 3 bước (Bước 0: Thu thập đầu vào -> Bước 1: Nghiên cứu khách hàng & Pain points -> Bước 2: Lập dàn ý -> Bước 3: Viết bài & Tối ưu SEO theo từng phần -> Self-check & Tổng hợp).
+
 
 ```text
 C - CONTEXT (Bối cảnh & Vai trò)
